@@ -1,0 +1,1 @@
+# latihan12-ddp
